@@ -17,7 +17,7 @@ const FetchData = () => {
       fetchData();
     }, [])
     
-  return (
+  return (  
     <>
      <h1>Posts</h1>
      <ul>
